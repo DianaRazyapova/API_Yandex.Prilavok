@@ -24,5 +24,16 @@
 **Postman**
 > Скриншоты работы в программе
 
+
 **Яндекс.Трекер**
 > Составления баг-репортов
+<table>
+     <tr>
+        <td>
+          <img width="1526" alt="BUG-798844" src="https://user-images.githubusercontent.com/115238502/197834798-d9879dc6-7d2e-43d0-b8ef-e88a168e704e.png">
+            </td>
+            <td>
+            <img width="1660" alt="BUG-798859" src="https://user-images.githubusercontent.com/115238502/197834879-595b8102-1130-4b8d-94d2-8c6155443ed4.png">
+           </td>
+      </tr>
+</table>
