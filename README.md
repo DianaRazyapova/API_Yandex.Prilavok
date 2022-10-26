@@ -24,7 +24,8 @@
 ## Инстуременты
 
 **Postman**
-> Отправка GET метод
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00a550&lines=Отправка+GET+метода)](https://git.io/typing-svg)
 <table>
      <tr>
         <td>
