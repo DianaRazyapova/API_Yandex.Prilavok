@@ -48,8 +48,16 @@
      </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4361ee&lines=Отправка+запроса+методом+PUT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f72585&lines=Отправка+запроса+методом+DELETE)](https://git.io/typing-svg)
 <table>
+     <tr>
+        <td>
+          <img width="1325" alt="Удаление набора" src="https://user-images.githubusercontent.com/115238502/197998279-34c7b84c-dcef-4b8a-b807-9fb365846b0e.png">
+         </td>
+     </tr>
+</table>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4361ee&lines=Отправка+запроса+методом+PUT)](https://git.io/typing-svg)
 <table>
      <tr>
         <td>
