@@ -21,7 +21,6 @@
 &#128313; работа с форматами данных JSON, XML, SOAP;
 
 
-
 ## Postman
 > Скриншоты работы в программе
 
@@ -37,7 +36,28 @@
       </tr>
 </table>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffc300&lines=Отправка+запроса+методом+POST)](https://git.io/typing-svg)
+<table>
+     <tr>
+        <td>
+          <img width="1680" alt="SOAP  Проверить количество товаров на складах" src="https://user-images.githubusercontent.com/115238502/197979968-2f148821-8b02-4151-8327-15d4762c3d1a.png">
+          </td>
+          <td>
+          <img width="1680" alt="Проверить наличие товаров на скадах" src="https://user-images.githubusercontent.com/115238502/197980094-515eec99-2237-495c-b52c-dd767090aa33.png">
+          </td>
+     </tr>
+</table>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4361ee&lines=Отправка+запроса+методом+PUT)](https://git.io/typing-svg)
+<table>
+<table>
+     <tr>
+        <td>
+          <img width="1364" alt="Изменение цены продукта" src="https://user-images.githubusercontent.com/115238502/197990722-e8bd84de-d7b4-4bfc-bab3-6b500c020b39.png">
+          </td>
+     </tr>
+</table>
+             
 ## Яндекс.Трекер
 > Составления баг-репортов
 <table>
