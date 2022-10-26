@@ -26,7 +26,10 @@
 <table>
      <tr>
         <td>
-<img width="1680" alt="Получить список складов" src="https://user-images.githubusercontent.com/115238502/197938939-2f0b8014-5078-44fd-8437-a8f1cb3ab144.png">
+          <img width="1680" alt="Получить список доставок" src="https://user-images.githubusercontent.com/115238502/197940525-a6013fab-44d1-4b97-8d70-0fe137d6a65c.png">
+            </td>
+            <td>
+          <img width="1680" alt="Получить список складов" src="https://user-images.githubusercontent.com/115238502/197940544-04499269-dba2-4238-bfee-8f4a38020be0.png">
           </td>
       </tr>
 </table>
