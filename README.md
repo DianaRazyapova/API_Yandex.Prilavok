@@ -21,11 +21,11 @@
 &#128313; работа с форматами данных JSON, XML, SOAP;
 
 
-## Инстуременты
 
-**Postman**
+## Postman
+> Скриншоты работы в программе
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00a550&lines=Отправка+GET+метода)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00a550&lines=Отправка+запроса+методом+GET)](https://git.io/typing-svg)
 <table>
      <tr>
         <td>
@@ -37,7 +37,8 @@
       </tr>
 </table>
 
-**Яндекс.Трекер**
+
+## Яндекс.Трекер
 > Составления баг-репортов
 <table>
      <tr>
