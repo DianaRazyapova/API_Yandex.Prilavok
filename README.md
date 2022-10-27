@@ -1,5 +1,3 @@
-## Тестирование API Яндекс.Прилавок &#127823;
-
 **Содержание**
 
 - [Чек-лист API](https://github.com/DianaRazyapova/API_Yandex.Prilavok/blob/4f5aac1c4d9b7ed42528865483a0f2f65ed9fd6c/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20API.xlsx)
