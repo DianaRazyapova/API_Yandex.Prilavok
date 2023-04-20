@@ -5,23 +5,23 @@
 
 ## Выполненые задачи
 
-&#128313; анализ требований бэкенда приложения;
+- анализ требований бэкенда приложения;
 
-&#128313; изучение документации API;
+- изучение документации API;
 
-&#128313; спроектирование тесты в виде чек-листа;
+- спроектирование тесты в виде чек-листа;
 
-&#128313; тестирование API через инстурмент Postman;
+- тестирование API через инстурмент Postman;
 
-&#128313; проверка корректных HTTPS ответов;
+- проверка корректных HTTPS ответов;
 
-&#128313; работа с форматами данных JSON, XML, SOAP;
+- работа с форматами данных JSON, XML, SOAP;
 
 
 ## Postman
 > Скриншоты работы в программе
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00a550&lines=Отправка+запроса+методом+GET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Отправка+запроса+методом+GET)](https://git.io/typing-svg)
 <table>
      <tr>
         <td>
@@ -33,7 +33,7 @@
       </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffc300&lines=Отправка+запроса+методом+POST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Отправка+запроса+методом+POST)](https://git.io/typing-svg)
 <table>
      <tr>
         <td>
@@ -45,7 +45,7 @@
      </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=f72585&lines=Отправка+запроса+методом+DELETE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Отправка+запроса+методом+DELETE)](https://git.io/typing-svg)
 <table>
      <tr>
         <td>
@@ -54,7 +54,7 @@
      </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4361ee&lines=Отправка+запроса+методом+PUT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Отправка+запроса+методом+PUT)](https://git.io/typing-svg)
 <table>
      <tr>
         <td>
