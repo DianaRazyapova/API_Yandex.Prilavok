@@ -2,7 +2,7 @@
 Сервис заказа продуктов и хозяйственных товаров на дом с локальных складов.
 
 ## Документация
-- [Чек-лист API](https://github.com/DianaRazyapova/API_Yandex.Prilavok/blob/4f5aac1c4d9b7ed42528865483a0f2f65ed9fd6c/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20API.xlsx)
+- [Чек-лист API](https://drive.google.com/file/d/1fR1eH5t9QdzoLPkT0bwy-MUlRqkXsVPm/view?usp=drive_link)
 - [Postman Collections](https://drive.google.com/drive/folders/1fqLE7R_gn0cTioSaa57JrpsIHtbfbyEQ?usp=sharing)
 - [Bug report примеры](https://drive.google.com/drive/folders/1yKVn_Z55Hd6TXWu7HzDIa8kWsRZkSbXE?usp=sharing)
 
