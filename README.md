@@ -24,7 +24,7 @@
 ## Postman
 > Скриншоты работы в программе
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Отправка+запроса+методом+GET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Sending+a+GET+request)](https://git.io/typing-svg)
 <table>
      <tr>
         <td>
@@ -36,7 +36,7 @@
       </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Отправка+запроса+методом+POST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Sending+a+POST+request)](https://git.io/typing-svg)
 <table>
      <tr>
         <td>
@@ -48,7 +48,7 @@
      </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Отправка+запроса+методом+DELETE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Sending+a+DELETE+request)](https://git.io/typing-svg)
 <table>
      <tr>
         <td>
@@ -57,7 +57,7 @@
      </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Отправка+запроса+методом+PUT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Sending+a+PUT+request)](https://git.io/typing-svg)
 <table>
      <tr>
         <td>
