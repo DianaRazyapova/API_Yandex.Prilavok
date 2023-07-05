@@ -2,9 +2,9 @@
 Сервис заказа продуктов и хозяйственных товаров на дом с локальных складов.
 
 ## Документация
-- [Чек-лист API](https://drive.google.com/file/d/1fR1eH5t9QdzoLPkT0bwy-MUlRqkXsVPm/view?usp=drive_link)
-- [Postman Collections](https://drive.google.com/drive/folders/1fqLE7R_gn0cTioSaa57JrpsIHtbfbyEQ?usp=sharing)
-- [Bug report примеры](https://drive.google.com/drive/folders/1yKVn_Z55Hd6TXWu7HzDIa8kWsRZkSbXE?usp=sharing)
+- [Чек-лист API](https://docs.google.com/spreadsheets/d/1QtYUhe_K0VEzWNhXDVO1g1JYaJzoSrbY7a2z8lwyn6s/edit?usp=drive_link)
+- [Postman Collections](https://drive.google.com/drive/folders/1fqLE7R_gn0cTioSaa57JrpsIHtbfbyEQ?usp=drive_link)
+- [Bug report примеры](https://drive.google.com/drive/folders/19AYCUY33qWea7aipfDscvs7lojULViFw?usp=drive_link)
 
 ## Выполненые задачи
 
